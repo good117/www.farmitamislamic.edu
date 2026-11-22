@@ -1,1 +1,1 @@
-/#farmitamislamic.edu
+/farmitamislamic.edu
